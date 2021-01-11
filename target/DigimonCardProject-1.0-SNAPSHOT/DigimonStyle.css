@@ -1,0 +1,47 @@
+ .container {
+  margin-top: 6%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #c58044;
+
+}
+
+.item {
+  width: 24%;
+  margin-bottom: 2%; 
+  margin-top: 1%;
+  position: relative;
+  background-color: white;
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #f58f36;
+  
+}
+
+img {
+    height: 79%;
+    width: 50%;
+    vertical-align: middle;
+    border-style: none;
+}
+h1{
+    margin-top: 2%;
+    color: #f58f36;
+
+}
+body{
+   background-color: #0a0600d6;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #c58044;
+    border-color: #c58044;
+    margin-left: 40%;
+}
+
+.btn-primary:hover {
+    background-color: #c58044;
+    border-color: #c58044; 
+}
