@@ -24,9 +24,14 @@
         <servlet-name>ShowDigimonCard</servlet-name>
         <url-pattern>/ShowDigimonCard</url-pattern>
     </servlet-mapping>
+    
+     <welcome-file-list>
+        <welcome-file>Home.jsp</welcome-file>
+    </welcome-file-list>
     <session-config>
         <session-timeout>
-            30
+           6000
         </session-timeout>
     </session-config>
+    
 </web-app>
