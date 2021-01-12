@@ -1,1 +1,1 @@
-web: java -cp target/classes/;target/classes/* DigimonPkg.Digimon
+web: java -cp target/classes/;target/DigimonCardProject-1.0-SNAPSHOT/Home.jsp
