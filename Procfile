@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* src.main.webapp.Home.jsp
+web: java -cp target/classes/;target/dependency/* DigimonPkg.Digimon.class
