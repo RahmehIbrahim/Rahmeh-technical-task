@@ -1,1 +1,1 @@
-web: java -cp target/classes/* DigimonPkg.Digimon
+web: java -cp target/classes/DigimonPkg.Digimon
